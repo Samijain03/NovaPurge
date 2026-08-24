@@ -12,22 +12,22 @@ system-maintenance tasks.
 
 ## Features
 
--   • **System Cleanup** --- identify and remove unnecessary files
--   • **Storage Scanner** --- analyze disk usage and locate
+-    **System Cleanup** --- identify and remove unnecessary files
+-    **Storage Scanner** --- analyze disk usage and locate
     space-consuming data
--   • **Duplicate File Detection** --- find duplicate files that may be
+-    **Duplicate File Detection** --- find duplicate files that may be
     taking up unnecessary storage
--   • **Large File Analysis** --- identify unusually large files and
+-    **Large File Analysis** --- identify unusually large files and
     folders
--   • **Memory Booster** --- manage memory-related cleanup tasks
--   • **Privacy Cleaner** --- clean selected privacy-related traces
--   • **Startup Manager** --- manage applications that launch with
+-    **Memory Booster** --- manage memory-related cleanup tasks
+-    **Privacy Cleaner** --- clean selected privacy-related traces
+-    **Startup Manager** --- manage applications that launch with
     Windows
--   • **App Uninstaller** --- remove unwanted applications
--   • **Disk Treemap** --- visualize how storage is being used
--   • **DISM Cleaner** --- access Windows component/image cleanup
+-    **App Uninstaller** --- remove unwanted applications
+-    **Disk Treemap** --- visualize how storage is being used
+-    **DISM Cleaner** --- access Windows component/image cleanup
     operations
--   • **System Information** --- view useful information about the
+-    **System Information** --- view useful information about the
     Windows system
 
 ## Platform
